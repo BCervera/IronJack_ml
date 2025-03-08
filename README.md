@@ -1,4 +1,4 @@
- README: IronJack – AI Blackjack Strategy Simulator
+IronJack – AI Blackjack Strategy Simulator
 
  An AI-powered Blackjack decision-making system using Machine Learning and Zen Count strategy.
 
